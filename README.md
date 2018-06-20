@@ -1,5 +1,8 @@
 ## Laravel Trial Mode
 
+[![Latest Stable Version](https://poser.pugx.org/avviso-si/laravel-trial-mode/v/stable)](https://packagist.org/packages/avviso-si/laravel-trial-mode)
+[![Total Downloads](https://poser.pugx.org/avviso-si/laravel-trial-mode/downloads)](https://packagist.org/packages/avviso-si/laravel-trial-mode)
+
 ## For Laravel 5.2+
 
 ### Instalation
