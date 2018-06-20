@@ -16,5 +16,10 @@
         "psr-4": {
             "AvvisoSI\\TrialMode\\" : "src/"
         }
+    },
+    "laravel": {
+        "providers": [
+            "AvvisoSI\\TrialMode\\Providers\\TrialModeServiceProvider"
+        ]
     }
 }
