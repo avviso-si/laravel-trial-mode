@@ -1,0 +1,24 @@
+{
+    "name": "avviso-si/laravel-trial-mode",
+    "description": "Easy Trial Mode for Laravel 5",
+    "require-dev": {
+        "phpunit/phpunit": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean Jar Pereira de Araújo",
+            "email": "jeanjpa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "symfony/http-kernel": "^4.1",
+        "illuminate/support": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "AvvisoSI\\TrialMode\\" : "src/"
+        }
+    }
+}
