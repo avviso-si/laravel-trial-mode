@@ -1,6 +1,6 @@
 <?php
 
-namespace AvvisoSI\Providers;
+namespace AvvisoSI\TrialMode\Providers;
 
 use AvvisoSI\TrialMode\Console\Commands\RemoveTrial;
 use AvvisoSI\TrialMode\Console\Commands\SetTrial;
