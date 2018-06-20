@@ -5,7 +5,7 @@
 ### Instalation
 
 ```shell
-composer require avviso-si/laravel-trial-mode
+composer require avviso-si/laravel-trial-mode="1.0"
 ```
 
 Laravel 5.5 uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider.
