@@ -17,9 +17,11 @@
             "AvvisoSI\\TrialMode\\" : "src/"
         }
     },
-    "laravel": {
-        "providers": [
-            "AvvisoSI\\TrialMode\\Providers\\TrialModeServiceProvider"
-        ]
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AvvisoSI\\TrialMode\\Providers\\TrialModeServiceProvider"
+            ]
+        }
     }
 }
