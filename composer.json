@@ -11,11 +11,7 @@
             "email": "jeanjpa@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.6",
-        "symfony/http-kernel": "^4.1",
-        "illuminate/support": "^5.6"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "AvvisoSI\\TrialMode\\" : "src/"
