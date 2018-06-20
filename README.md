@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](https://poser.pugx.org/avviso-si/laravel-trial-mode/v/stable)](https://packagist.org/packages/avviso-si/laravel-trial-mode)
 [![Total Downloads](https://poser.pugx.org/avviso-si/laravel-trial-mode/downloads)](https://packagist.org/packages/avviso-si/laravel-trial-mode)
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## For Laravel 5.2+
 
 ### Instalation
